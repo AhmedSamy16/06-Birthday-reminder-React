@@ -1,4 +1,4 @@
-# 6.Birthday-reminer-React
+# 6.Birthday-reminder-React
 This is project 6/50 of my React projects series. 
 
 It's a project that displays a list of people whose birthdays are today with the ability to delete all of them.
